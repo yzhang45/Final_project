@@ -1,4 +1,4 @@
-# Python-project
+# Python-Project
 
 The program design is about the 24-point card game. It invokes picking random 4 cards from 52 cards. Each card represents a number. The ace, king, queen and jack represent 1, 13, 12 and 11 respectively. Player use each card number to form the expression and make it equal to 24. After entering the expression, user can click the Verify button on the graphical user interface (GUI) to check whether the result of the expression is correct or not.
 
